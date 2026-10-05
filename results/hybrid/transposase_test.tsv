@@ -1,0 +1,5 @@
+assembly	set	genes	window_orfs	mge_observed	mge_expected	P_ge	P_le
+hybrid	CrcB+CLC^F	52	651	3	6.24	0.949	0.13
+hybrid	all_exporters	82	933	3	8.95	0.994	0.0216
+hybrid	other_CLC	30	282	0	2.71	1	0.0659
+hybrid	loci	10	102	1	0.94	0.612	0.757

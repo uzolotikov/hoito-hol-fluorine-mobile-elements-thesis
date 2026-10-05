@@ -1,0 +1,4 @@
+assembly	genes_CrcB_CLCF	window_orfs	mge_observed	mge_expected	mge_P_ge	mge_P_le	locus_contigs	plasmid_observed	plasmid_expected	plasmid_P_ge
+short	48	506	1	3.86	0.979	0.101	9	3	0.13	0.000152
+hybrid	52	651	3	6.24	0.949	0.13	9	4	0.34	0.000157
+flye	60	553	5	6.63	0.792	0.35	6	1	0.13	0.127

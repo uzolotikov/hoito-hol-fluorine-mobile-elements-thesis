@@ -1,0 +1,10 @@
+contig	contig_len	loci	genomad_chromosome	genomad_plasmid	genomad_virus	genomad_plasmid_call	conjugation_genes	plasmid_marker_domains
+NODE_10_length_442718_cov_2.935974	442718	CrcB	0.0332	0.9541	0.0127	yes		ParBc,Rep_3
+NODE_11234_length_2327_cov_0.372980	2327	CrcB	0.1378	0.7984	0.0638	no		
+NODE_1311_length_12700_cov_1.139830	12700	CrcB	0.0022	0.9922	0.0056	yes		MobA_MobL,Rep_3,T4SS-DNA_transf
+NODE_150_length_75044_cov_3.398692	75044	CLC^F	0.0248	0.9632	0.0120	yes	T_virB2;T_virB3;virb4;T_virB6;T_virB5;T_virB8;T_virB9	T4SS-DNA_transf
+NODE_177_length_67856_cov_35.660257	67856	CrcB	0.8986	0.0763	0.0250	no		
+NODE_18795_length_1594_cov_0.645485	1594	CLC^F	0.7533	0.1683	0.0784	no		
+NODE_21027_length_1468_cov_0.520088	1468	CrcB	0.0999	0.7910	0.1091	no		
+NODE_3630_length_5355_cov_0.417618	5355	CLC^F	0.2687	0.6941	0.0373	no		
+NODE_7753_length_3030_cov_0.350734	3030	CLC^F	0.4333	0.3544	0.2124	no		

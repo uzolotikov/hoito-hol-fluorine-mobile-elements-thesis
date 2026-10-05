@@ -1,0 +1,12 @@
+name: hoito-assembly
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - spades=4.2.0
+  - flye=2.9.6
+  - minimap2=2.28
+  - racon=1.5.0
+  - polypolish=0.6.1
+  - bwa=0.7.19
+  - seqkit=2.13.0

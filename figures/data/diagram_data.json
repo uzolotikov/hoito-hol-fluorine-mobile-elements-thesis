@@ -1,0 +1,593 @@
+[
+ {
+  "contig": "contig_49301",
+  "title": "Плазмида Pannonibacter (сборка Flye, кольцевая)",
+  "view": [
+   1,
+   12718
+  ],
+  "length": 12718,
+  "genes": [
+   {
+    "n": 1,
+    "start": 2,
+    "stop": 667,
+    "strand": "1",
+    "dom": [
+     "AAA_31",
+     "ArsA_ATPase",
+     "CbiA",
+     "MipZ",
+     "ParA",
+     "VirC1"
+    ]
+   },
+   {
+    "n": 2,
+    "start": 669,
+    "stop": 965,
+    "strand": "1",
+    "dom": []
+   },
+   {
+    "n": 3,
+    "start": 968,
+    "stop": 1237,
+    "strand": "-1",
+    "dom": []
+   },
+   {
+    "n": 4,
+    "start": 1290,
+    "stop": 2009,
+    "strand": "-1",
+    "dom": [
+     "RPA",
+     "Rep_3"
+    ]
+   },
+   {
+    "n": 5,
+    "start": 2282,
+    "stop": 2836,
+    "strand": "-1",
+    "dom": []
+   },
+   {
+    "n": 6,
+    "start": 2893,
+    "stop": 4563,
+    "strand": "-1",
+    "dom": [
+     "T4SS-DNA_transf",
+     "TraG-D_C",
+     "TrwB_AAD_bind"
+    ]
+   },
+   {
+    "n": 7,
+    "start": 4632,
+    "stop": 4934,
+    "strand": "-1",
+    "dom": []
+   },
+   {
+    "n": 8,
+    "start": 5044,
+    "stop": 5559,
+    "strand": "1",
+    "dom": []
+   },
+   {
+    "n": 9,
+    "start": 5569,
+    "stop": 6741,
+    "strand": "1",
+    "dom": [
+     "MobA_MobL"
+    ]
+   },
+   {
+    "n": 10,
+    "start": 6803,
+    "stop": 7621,
+    "strand": "1",
+    "dom": [
+     "TauE"
+    ]
+   },
+   {
+    "n": 11,
+    "start": 7834,
+    "stop": 8337,
+    "strand": "1",
+    "dom": [
+     "CRCB"
+    ]
+   },
+   {
+    "n": 12,
+    "start": 8337,
+    "stop": 9002,
+    "strand": "1",
+    "dom": [
+     "PAP2"
+    ]
+   },
+   {
+    "n": 13,
+    "start": 9079,
+    "stop": 10314,
+    "strand": "-1",
+    "dom": [
+     "MFS_1"
+    ]
+   },
+   {
+    "n": 14,
+    "start": 10305,
+    "stop": 10496,
+    "strand": "-1",
+    "dom": [
+     "DUF1127"
+    ]
+   },
+   {
+    "n": 15,
+    "start": 10504,
+    "stop": 11046,
+    "strand": "-1",
+    "dom": []
+   },
+   {
+    "n": 16,
+    "start": 11249,
+    "stop": 11788,
+    "strand": "1",
+    "dom": [
+     "Resolvase"
+    ]
+   },
+   {
+    "n": 17,
+    "start": 11987,
+    "stop": 12304,
+    "strand": "-1",
+    "dom": [
+     "HTH_3"
+    ]
+   },
+   {
+    "n": 18,
+    "start": 12322,
+    "stop": 12606,
+    "strand": "-1",
+    "dom": [
+     "HigB-like_toxin"
+    ]
+   }
+  ],
+  "riboswitches": [
+   {
+    "lo": 7670,
+    "hi": 7731,
+    "strand": "+",
+    "evalue": "7.9e-06"
+   }
+  ]
+ },
+ {
+  "contig": "NODE_1960_length_12700_cov_1.139830",
+  "title": "та же плазмида в гибридной сборке (SPAdes)",
+  "view": [
+   1,
+   12700
+  ],
+  "length": 12700,
+  "genes": [
+   {
+    "n": 1,
+    "start": 2,
+    "stop": 901,
+    "strand": "1",
+    "dom": [
+     "T4SS-DNA_transf",
+     "TraG-D_C",
+     "TrwB_AAD_bind"
+    ]
+   },
+   {
+    "n": 2,
+    "start": 958,
+    "stop": 1512,
+    "strand": "1",
+    "dom": []
+   },
+   {
+    "n": 3,
+    "start": 1785,
+    "stop": 2828,
+    "strand": "1",
+    "dom": [
+     "RPA",
+     "Rep_3"
+    ]
+   },
+   {
+    "n": 4,
+    "start": 2831,
+    "stop": 3127,
+    "strand": "-1",
+    "dom": []
+   },
+   {
+    "n": 5,
+    "start": 3129,
+    "stop": 3788,
+    "strand": "-1",
+    "dom": [
+     "AAA_31",
+     "ArsA_ATPase",
+     "CbiA",
+     "MipZ",
+     "ParA",
+     "VirC1"
+    ]
+   },
+   {
+    "n": 6,
+    "start": 3908,
+    "stop": 4192,
+    "strand": "1",
+    "dom": [
+     "HigB-like_toxin"
+    ]
+   },
+   {
+    "n": 7,
+    "start": 4210,
+    "stop": 4527,
+    "strand": "1",
+    "dom": [
+     "HTH_3"
+    ]
+   },
+   {
+    "n": 8,
+    "start": 4726,
+    "stop": 5265,
+    "strand": "-1",
+    "dom": [
+     "Resolvase"
+    ]
+   },
+   {
+    "n": 9,
+    "start": 5468,
+    "stop": 6010,
+    "strand": "1",
+    "dom": []
+   },
+   {
+    "n": 10,
+    "start": 6018,
+    "stop": 6209,
+    "strand": "1",
+    "dom": [
+     "DUF1127"
+    ]
+   },
+   {
+    "n": 11,
+    "start": 6200,
+    "stop": 7435,
+    "strand": "1",
+    "dom": [
+     "MFS_1"
+    ]
+   },
+   {
+    "n": 12,
+    "start": 7512,
+    "stop": 8297,
+    "strand": "-1",
+    "dom": [
+     "PAP2"
+    ]
+   },
+   {
+    "n": 13,
+    "start": 8294,
+    "stop": 8680,
+    "strand": "-1",
+    "dom": [
+     "CRCB"
+    ]
+   },
+   {
+    "n": 14,
+    "start": 8893,
+    "stop": 9711,
+    "strand": "-1",
+    "dom": [
+     "TauE"
+    ]
+   },
+   {
+    "n": 15,
+    "start": 9773,
+    "stop": 10945,
+    "strand": "-1",
+    "dom": [
+     "MobA_MobL"
+    ]
+   },
+   {
+    "n": 16,
+    "start": 10955,
+    "stop": 11470,
+    "strand": "-1",
+    "dom": []
+   },
+   {
+    "n": 17,
+    "start": 11580,
+    "stop": 11882,
+    "strand": "1",
+    "dom": []
+   },
+   {
+    "n": 18,
+    "start": 11951,
+    "stop": 12700,
+    "strand": "1",
+    "dom": [
+     "T4SS-DNA_transf"
+    ]
+   }
+  ],
+  "riboswitches": [
+   {
+    "lo": 8783,
+    "hi": 8844,
+    "strand": "-",
+    "evalue": "7.9e-06"
+   }
+  ]
+ },
+ {
+  "contig": "NODE_211_length_75051_cov_3.379069",
+  "title": "Конъюгативный элемент Hydrogenophaga: тандем CLCᶠ + CrcB",
+  "view": [
+   39000,
+   46000
+  ],
+  "length": 75051,
+  "genes": [
+   {
+    "n": 38,
+    "start": 38759,
+    "stop": 39325,
+    "strand": "-1",
+    "dom": []
+   },
+   {
+    "n": 39,
+    "start": 39419,
+    "stop": 40042,
+    "strand": "1",
+    "dom": []
+   },
+   {
+    "n": 40,
+    "start": 40424,
+    "stop": 40855,
+    "strand": "-1",
+    "dom": [
+     "EamA"
+    ]
+   },
+   {
+    "n": 41,
+    "start": 40868,
+    "stop": 41185,
+    "strand": "-1",
+    "dom": [
+     "DUF190"
+    ]
+   },
+   {
+    "n": 42,
+    "start": 41195,
+    "stop": 41581,
+    "strand": "-1",
+    "dom": [
+     "CRCB"
+    ]
+   },
+   {
+    "n": 43,
+    "start": 41600,
+    "stop": 41938,
+    "strand": "-1",
+    "dom": [
+     "DUF190"
+    ]
+   },
+   {
+    "n": 44,
+    "start": 41948,
+    "stop": 43261,
+    "strand": "-1",
+    "dom": [
+     "Voltage_CLC"
+    ]
+   },
+   {
+    "n": 45,
+    "start": 43571,
+    "stop": 44854,
+    "strand": "-1",
+    "dom": [
+     "Enolase_C",
+     "Enolase_N",
+     "MR_MLE_C"
+    ]
+   },
+   {
+    "n": 46,
+    "start": 44932,
+    "stop": 45651,
+    "strand": "-1",
+    "dom": [
+     "His_Phos_1"
+    ]
+   },
+   {
+    "n": 47,
+    "start": 45654,
+    "stop": 45983,
+    "strand": "1",
+    "dom": []
+   }
+  ],
+  "riboswitches": [
+   {
+    "lo": 43349,
+    "hi": 43411,
+    "strand": "-",
+    "evalue": "3e-09"
+   }
+  ]
+ },
+ {
+  "contig": "NODE_1127_length_19921_cov_0.410655",
+  "title": "Оперон: экспортёр CLCᶠ + енолаза",
+  "view": [
+   14000,
+   19200
+  ],
+  "length": 19921,
+  "genes": [
+   {
+    "n": 18,
+    "start": 12722,
+    "stop": 14026,
+    "strand": "-1",
+    "dom": [
+     "His_Phos_2"
+    ]
+   },
+   {
+    "n": 19,
+    "start": 14260,
+    "stop": 14892,
+    "strand": "-1",
+    "dom": [
+     "His_Phos_1"
+    ]
+   },
+   {
+    "n": 20,
+    "start": 14904,
+    "stop": 16190,
+    "strand": "-1",
+    "dom": [
+     "Enolase_C",
+     "Enolase_N",
+     "MAAL_C"
+    ]
+   },
+   {
+    "n": 21,
+    "start": 16204,
+    "stop": 16881,
+    "strand": "-1",
+    "dom": [
+     "His_Phos_1"
+    ]
+   },
+   {
+    "n": 22,
+    "start": 16895,
+    "stop": 18733,
+    "strand": "-1",
+    "dom": [
+     "DUF190",
+     "Voltage_CLC"
+    ]
+   }
+  ],
+  "riboswitches": [
+   {
+    "lo": 18761,
+    "hi": 18837,
+    "strand": "-",
+    "evalue": "7.2e-06"
+   }
+  ]
+ },
+ {
+  "contig": "NODE_6581_length_4333_cov_0.442371",
+  "title": "Компенсаторный оперон без экспортёра",
+  "view": [
+   1,
+   4333
+  ],
+  "length": 4333,
+  "genes": [
+   {
+    "n": 1,
+    "start": 108,
+    "stop": 548,
+    "strand": "1",
+    "dom": [
+     "Usp"
+    ]
+   },
+   {
+    "n": 2,
+    "start": 738,
+    "stop": 1934,
+    "strand": "1",
+    "dom": [
+     "MFS_1"
+    ]
+   },
+   {
+    "n": 3,
+    "start": 1918,
+    "stop": 2346,
+    "strand": "1",
+    "dom": []
+   },
+   {
+    "n": 4,
+    "start": 2387,
+    "stop": 3697,
+    "strand": "1",
+    "dom": [
+     "Enolase_C",
+     "Enolase_N"
+    ]
+   },
+   {
+    "n": 5,
+    "start": 3699,
+    "stop": 4256,
+    "strand": "1",
+    "dom": [
+     "Pyrophosphatase"
+    ]
+   }
+  ],
+  "riboswitches": [
+   {
+    "lo": 574,
+    "hi": 643,
+    "strand": "+",
+    "evalue": "8.2e-07"
+   }
+  ]
+ }
+]

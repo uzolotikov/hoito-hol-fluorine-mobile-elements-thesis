@@ -1,0 +1,11 @@
+locus	exporter	taxon	short_contig	short_contig_len	short_plasmid_call	short_plasmid_score	short_plasmid_markers	hybrid_contig	hybrid_contig_len	hybrid_plasmid_call	hybrid_plasmid_score	hybrid_plasmid_markers	flye_contig	flye_contig_len	flye_plasmid_call	flye_plasmid_score	flye_plasmid_markers
+1	CrcB	Ideonella	NODE_10_length_442718_cov_2.935974	442718	yes	0.9541	ParBc,Rep_3	NODE_14_length_457108_cov_2.954935	457108	yes	0.9453	ParBc,Rep_3	contig_46306	44094	no	0.2676	
+2	CrcB	NA	NODE_11234_length_2327_cov_0.372980	2327	no	0.7984		NODE_12314_length_2327_cov_0.372980	2327	no	0.7984		нет	NA	NA	NA	
+3	CrcB	Pannonibacter	NODE_1311_length_12700_cov_1.139830	12700	yes	0.9922	MobA_MobL,Rep_3,T4SS-DNA_transf	NODE_1960_length_12700_cov_1.139830	12700	yes	0.9922	MobA_MobL,Rep_3,T4SS-DNA_transf	contig_49301	12718	yes	0.9914	MobA_MobL,Rep_3,T4SS-DNA_transf
+4	CLC^F	Hydrogenophaga	NODE_150_length_75044_cov_3.398692	75044	yes	0.9632	T4SS-DNA_transf	NODE_211_length_75051_cov_3.379069	75051	yes	0.9649	T4SS-DNA_transf	contig_46126	59456	no	0.2160	ParBc
+5	CrcB	NA	NODE_177_length_67856_cov_35.660257	67856	no	0.0763		NODE_41_length_233166_cov_35.930694	233166	no	0.0750		contig_8439	342134	no	0.0685	
+6	CLC^F	Hydrotalea	NODE_18795_length_1594_cov_0.645485	1594	no	0.1683		NODE_9612_length_3001_cov_0.569607	3001	no	0.5325		нет	NA	NA	NA	
+7	CrcB	Pannonibacter	NODE_21027_length_1468_cov_0.520088	1468	no	0.7910		NODE_1127_length_19921_cov_0.410655	19921	yes	0.9705		contig_576	4559	no	0.3725	
+8	CLC^F	Pannonibacter	NODE_3630_length_5355_cov_0.417618	5355	no	0.6941		NODE_1127_length_19921_cov_0.410655	19921	yes	0.9705		частично	NA	NA	NA	
+9	CLC^F	Micrarchaeota	NODE_7753_length_3030_cov_0.350734	3030	no	0.3544		NODE_9515_length_3030_cov_0.350734	3030	no	0.3544		contig_3877	6255	no	0.6858	
+10	CLC^F	Micrarchaeota	участок без локуса	NA	NA	NA		NODE_10380_length_2782_cov_0.333955	2782	no	0.1662		contig_3877	6255	no	0.6858	

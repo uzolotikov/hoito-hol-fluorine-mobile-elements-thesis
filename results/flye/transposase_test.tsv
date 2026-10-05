@@ -1,0 +1,5 @@
+assembly	set	genes	window_orfs	mge_observed	mge_expected	P_ge	P_le
+flye	CrcB+CLC^F	60	553	5	6.63	0.792	0.35
+flye	all_exporters	83	774	7	9.29	0.82	0.289
+flye	other_CLC	23	221	2	2.66	0.747	0.501
+flye	loci	7	86	1	1.03	0.647	0.723

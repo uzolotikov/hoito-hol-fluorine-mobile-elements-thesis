@@ -1,0 +1,7 @@
+contig	contig_len	loci	genomad_chromosome	genomad_plasmid	genomad_virus	genomad_plasmid_call	conjugation_genes	plasmid_marker_domains
+contig_3877	6255	CLC^F,CLC^F	0.2725	0.6858	0.0417	no		
+contig_46126	59456	CLC^F	0.7291	0.2160	0.0549	no		ParBc
+contig_46306	44094	CrcB	0.6754	0.2676	0.0570	no		
+contig_49301	12718	CrcB	0.0022	0.9914	0.0063	yes		MobA_MobL,Rep_3,T4SS-DNA_transf
+contig_576	4559	CrcB	0.5419	0.3725	0.0856	no		
+contig_8439	342134	CrcB	0.9075	0.0685	0.0240	no		

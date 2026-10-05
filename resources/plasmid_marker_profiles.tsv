@@ -1,0 +1,30 @@
+name	accession	description	GA_thresholds
+Bac_RepA_C	PF18008.2	Replication initiator protein A C-terminal domain	25.00 25.00
+IncFII_repA	PF02387.16	IncFII RepA protein family	22.90 22.90
+KfrA_N	PF11740.9	Plasmid replication region DNA-binding N-term	26.10 26.10
+L_lactis_RepB_C	PF06430.13	Lactococcus lactis RepB C-terminus	25.00 25.00
+MobA_MobL	PF03389.16	MobA/MobL family	26.40 26.40
+MobC	PF05713.12	Bacterial mobilisation protein (MobC)	23.20 23.20
+Mobilization_B	PF17511.3	Mobilization protein B	27.00 27.00
+MobL	PF18555.2	MobL relaxases	28.50 28.50
+ParB	PF08775.11	ParB family	25.00 25.00
+ParBc	PF02195.19	ParB-like nuclease domain	21.90 21.90
+PilI	PF10623.10	Plasmid conjugative transfer protein PilI	19.70 19.70
+Plasmid_parti	PF01672.17	Putative plasmid partition protein	22.10 22.10
+Relaxase	PF03432.15	Relaxase/Mobilisation nuclease domain	24.10 24.10
+Rep_1	PF01446.18	Replication protein	33.20 33.20
+Rep_2	PF01719.18	Plasmid replication protein	25.00 25.00
+Rep_3	PF01051.22	Initiator Replication protein	22.40 22.40
+Rep_trans	PF02486.20	Replication initiation factor	29.60 29.60
+RepA_C	PF04796.13	Plasmid encoded RepA protein	21.40 21.40
+RepA_N	PF06970.12	Replication initiator protein A (RepA) N-terminus	30.00 30.00
+RepB	PF07506.12	RepB plasmid partitioning protein	30.00 30.00
+RepB-RCR_reg	PF10723.10	Replication regulatory protein RepB	20.90 20.90
+RepB_primase	PF16793.6	RepB DNA-primase from phage plasmid	26.10 26.10
+Replic_Relax	PF13814.7	Replication-relaxation	25.30 25.30
+Replicase	PF03090.18	Replicase family	26.00 26.00
+T4SS-DNA_transf	PF02534.15	Type IV secretory system Conjugative DNA transfer	20.10 20.10
+TraD	PF06412.12	Conjugal transfer protein TraD	22.00 22.00
+TraI_2_C	PF07515.12	Putative conjugal transfer nickase/helicase TraI C-term	27.30 27.30
+TraI_2B	PF18340.2	DNA relaxase TraI 2B/2B-like domain	26.70 26.70
+TraN	PF06986.12	Type-1V conjugative transfer system mating pair stabilisation	21.60 17.10

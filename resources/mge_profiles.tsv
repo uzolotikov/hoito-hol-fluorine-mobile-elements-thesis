@@ -1,0 +1,147 @@
+name	accession	description	GA_thresholds
+Arm-DNA-bind_1	PF09003.11	Bacteriophage lambda integrase, Arm DNA-binding domain	21.80 21.80
+CtnDOT_TraJ	PF07863.12	Homologues of TraJ from Bacteroides conjugative transposon	28.40 28.40
+CxC1	PF18802.2	CxC1 like cysteine cluster associated with KDZ transposases	26.90 26.90
+CxC2	PF18803.2	CxC2 like cysteine cluster associated with KDZ transposases	27.00 27.00
+CxC3	PF18804.2	CxC3 like cysteine cluster associated with KDZ transposases	26.60 26.60
+CxC4	PF18717.2	CxC4 like cysteine cluster associated with KDZ transposases	26.90 26.90
+CxC5	PF18718.2	CxC5 like cysteine cluster associated with KDZ transposases	26.90 26.90
+CxC6	PF18721.2	CxC6 like cysteine cluster associated with KDZ transposases	27.50 27.50
+CxC7	PF18866.2	CxC7 like cysteine cluster associated with KDZ transposases	27.00 27.00
+DBD_Tnp_Hermes	PF10683.10	Hermes transposase DNA-binding domain	20.50 20.50
+DBD_Tnp_Mut	PF03108.16	MuDR family transposase	21.90 21.90
+DDE_1	PF03184.20	DDE superfamily endonuclease	20.80 20.80
+DDE_2	PF02914.16	Bacteriophage Mu transposase	20.30 20.30
+DDE_3	PF13358.7	DDE superfamily endonuclease	28.60 28.60
+DDE_5	PF13546.7	DDE superfamily endonuclease	27.00 27.00
+DDE_Tnp_1	PF01609.22	Transposase DDE domain	23.00 23.00
+DDE_Tnp_1_2	PF13586.7	Transposase DDE domain	29.20 29.20
+DDE_Tnp_1_3	PF13612.7	Transposase DDE domain	27.00 27.00
+DDE_Tnp_1_4	PF13701.7	Transposase DDE domain group 1	34.70 34.70
+DDE_Tnp_1_5	PF13737.7	Transposase DDE domain	27.00 27.00
+DDE_Tnp_1_6	PF13751.7	Transposase DDE domain	25.10 25.10
+DDE_Tnp_1_7	PF13843.7	Transposase IS4	22.40 22.40
+DDE_Tnp_1_assoc	PF13808.7	DDE_Tnp_1-associated	32.30 32.30
+DDE_Tnp_2	PF04693.13	Archaeal putative transposase ISC1217	20.20 20.20
+DDE_Tnp_4	PF13359.7	DDE superfamily endonuclease	24.80 24.80
+DDE_Tnp_IS1	PF03400.14	IS1 transposase	24.10 24.10
+DDE_Tnp_IS1595	PF12762.8	ISXO2-like transposase domain	27.00 27.00
+DDE_Tnp_IS240	PF13610.7	DDE domain	27.00 27.00
+DDE_Tnp_IS66	PF03050.15	Transposase IS66 family	23.10 23.10
+DDE_Tnp_IS66_C	PF13817.7	IS66 C-terminal element	30.00 30.00
+DDE_Tnp_ISAZ013	PF07592.12	Rhodopirellula transposase DDE domain	23.90 23.90
+DDE_Tnp_ISL3	PF01610.18	Transposase	21.20 21.20
+DDE_Tnp_Tn3	PF01526.18	Tn3 transposase DDE domain	20.70 20.70
+DEDD_Tnp_IS110	PF01548.18	Transposase	29.00 29.00
+Dimer_Tnp_Tn5	PF02281.17	Transposase Tn5 dimerisation domain	26.70 26.70
+DUF1233	PF06806.13	Putative excisionase (DUF1233)	21.30 21.30
+DUF2080	PF09853.10	Putative transposon-encoded protein (DUF2080)	21.50 21.50
+DUF3701	PF12482.9	Phage integrase protein	26.90 26.90
+DUF4096	PF13340.7	Putative transposase of IS4/5 family (DUF4096)	34.30 34.30
+DUF772	PF05598.12	Transposase domain (DUF772)	23.10 23.10
+Exc	PF07825.12	Excisionase-like protein	21.40 21.40
+gag_pre-integrs	PF13976.7	GAG-pre-integrase domain	28.40 28.40
+HTH_48	PF17906.2	HTH domain in Mos1 transposase	24.10 24.10
+HTH_7	PF02796.16	Helix-turn-helix domain of resolvase	23.80 23.80
+HTH_OrfB_IS605	PF12323.9	Helix-turn-helix domain	21.00 21.00
+HTH_Tnp_1	PF01527.21	Transposase	24.10 24.10
+HTH_Tnp_1_2	PF13022.7	Helix-turn-helix of insertion element transposase	27.90 27.90
+HTH_Tnp_2	PF20310.1	Transposon related HTH domain protein	23.80 23.80
+HTH_Tnp_4	PF13613.7	Helix-turn-helix of DDE superfamily endonuclease	27.00 27.00
+HTH_Tnp_IS1	PF12759.8	InsA C-terminal domain	24.90 24.90
+HTH_Tnp_IS630	PF01710.17	Transposase	21.30 21.30
+HTH_Tnp_ISL3	PF13542.7	Helix-turn-helix domain of transposase family ISL3	27.40 27.40
+HTH_Tnp_Mu_1	PF02316.17	Mu DNA-binding domain	23.30 23.30
+HTH_Tnp_Mu_2	PF09039.12	Mu DNA binding, I gamma subdomain	20.50 20.50
+HTH_Tnp_Tc3_1	PF11427.9	Tc3 transposase	21.10 21.10
+HTH_Tnp_Tc3_2	PF01498.19	Transposase	31.50 31.50
+HTH_Tnp_Tc5	PF03221.17	Tc5 transposase DNA-binding domain	22.20 22.20
+IN_DBD_C	PF00552.22	Integrase DNA binding domain	20.70 20.70
+INT_rpt	PF14882.9	Integrase repeat unit	26.50 12.00
+Integrase_1	PF12835.8	Integrase	21.50 21.50
+Integrase_2	PF13009.9	Putative integrase	25.40 25.40
+Integrase_DNA	PF02920.16	DNA binding domain of tn916 integrase	27.00 27.00
+Integrase_H2C2	PF17921.2	Integrase zinc binding domain	25.50 25.50
+Integrase_Zn	PF02022.20	Integrase Zinc binding domain	21.70 21.70
+IstB_IS21	PF01695.18	IstB-like ATP binding protein	24.10 24.10
+KDZ	PF18758.2	Kyakuja-Dileera-Zisupton transposase	26.60 26.60
+LZ_Tnp_IS481	PF13011.7	leucine-zipper of insertion element IS481	22.20 22.20
+LZ_Tnp_IS66	PF13007.8	Transposase C of IS166 homeodomain	22.90 22.90
+MLVIN_C	PF18697.2	Murine leukemia virus (MLV) integrase (IN) C-terminal domain	29.20 29.20
+Mu-transpos_C	PF09299.12	Mu transposase, C-terminal	20.80 20.80
+MULE	PF10551.10	MULE transposase domain	27.60 27.60
+Nterm_IS4	PF13006.8	Insertion element 4 transposase N-terminal	21.80 21.80
+Nup_retrotrp_bd	PF10599.10	Retro-transposon transporting motif	25.00 25.00
+OrfB_IS605	PF01385.20	Probable transposase	30.50 30.50
+OrfB_Zn_ribbon	PF07282.12	Putative transposase DNA-binding domain	26.30 26.30
+PDDEXK_2	PF12784.8	PD-(D/E)XK nuclease family transposase	27.40 27.40
+Peptidase_A17	PF05380.14	Pao retrotransposon peptidase	22.30 22.30
+Peptidase_A2_2	PF12382.9	Retrotransposon peptidase	21.20 21.20
+Peptidase_A2B	PF12384.9	Ty3 transposon peptidase	21.20 21.20
+Phage-MuB_C	PF09077.12	Mu B transposition protein, C terminal	25.00 25.00
+Phage_int_SAM_1	PF02899.18	Phage integrase, N-terminal SAM-like domain	22.30 22.30
+Phage_int_SAM_2	PF12834.8	Phage integrase, N-terminal	21.90 21.90
+Phage_int_SAM_3	PF14659.7	Phage integrase, N-terminal SAM-like domain	22.60 22.60
+Phage_int_SAM_4	PF13495.7	Phage integrase, N-terminal SAM-like domain	27.00 27.00
+Phage_int_SAM_5	PF13102.7	Phage integrase SAM-like domain	22.30 22.30
+Phage_int_SAM_6	PF18644.2	Phage integrase SAM-like domain	89.20 89.20
+Phage_Integr_2	PF13009.7	Putative phage integrase	25.40 25.40
+Phage_integr_3	PF16795.6	Archaeal phage integrase	27.00 27.00
+Phage_integrase	PF00589.23	Phage integrase family	27.10 27.10
+PHINT_rpt	PF14882.7	Phage-integrase repeat unit	26.50 12.00
+Plant_tran	PF04827.15	Plant transposon protein	20.70 20.70
+Plavaka	PF18759.2	Plavaka transposase	26.30 26.30
+Recombinase	PF07508.14	Recombinase	21.10 21.10
+Resolvase	PF00239.22	Resolvase, N terminal domain	23.20 23.20
+Retrotrans_gag	PF03732.18	Retrotransposon gag protein	23.20 23.20
+RHS_N	PF20445.1	Retrotransposon hot spot proteins N-terminal	21.00 21.00
+RHSP	PF07999.12	Retrotransposon hot spot protein	19.70 19.70
+rve	PF00665.27	Integrase core domain	32.60 32.60
+rve_2	PF13333.7	Integrase core domain	21.90 21.90
+rve_3	PF13683.7	Integrase core domain	26.50 26.50
+SH3_11	PF18103.2	Retroviral integrase C-terminal SH3 domain	25.00 25.00
+SpecificRecomb	PF10136.10	Site-specific recombinase	24.60 24.60
+Tn7_Tnp_TnsA_C	PF08721.12	TnsA endonuclease C terminal	23.40 23.40
+Tn7_Tnp_TnsA_N	PF08722.12	TnsA endonuclease N terminal	25.50 25.50
+Tn7_TnsC_Int	PF11426.9	Tn7 transposition regulator TnsC	24.30 24.30
+Tn916-Xis	PF09035.11	Excisionase from transposon Tn916	22.90 22.90
+TniQ	PF06527.12	TniQ	27.00 27.00
+Tnp_DNA_bind	PF14706.7	Transposase DNA-binding	24.00 24.00
+Tnp_P_element	PF12017.9	Transposase protein	22.80 22.80
+Tnp_P_element_C	PF12596.9	87kDa Transposase	22.60 22.60
+Tnp_zf-ribbon_2	PF13842.7	DDE_Tnp_1-like zinc-ribbon	19.40 19.40
+TnpB_IS66	PF05717.14	IS66 Orf2 like protein	26.60 26.60
+TnpV	PF14198.7	Transposon-encoded protein TnpV	27.00 27.00
+TnpW	PF14202.7	Transposon-encoded protein TnpW	25.00 25.00
+TpcC	PF12642.8	Conjugative transposon protein TcpC	27.00 27.00
+TraH	PF06122.12	Conjugative relaxosome accessory transposon protein	25.00 25.00
+TraL_transposon	PF13150.7	Conjugative transposon protein TraL	27.00 27.00
+Transp_Tc5_C	PF04236.16	Tc5 transposase C-terminal domain	27.40 26.40
+Transpos_assoc	PF13963.7	Transposase-associated domain	27.10 27.10
+Transposase_1	PF01359.19	Transposase (partial DDE domain)	24.00 24.00
+Transposase_20	PF02371.17	Transposase IS116/IS110/IS902 family	21.30 21.30
+Transposase_21	PF02992.15	Transposase family tnp2	28.60 28.60
+Transposase_22	PF02994.15	L1 transposable element RBD-like domain	22.40 22.40
+Transposase_23	PF03017.15	TNP1/EN/SPM transposase	20.40 20.40
+Transposase_24	PF03004.15	Plant transposase (Ptta/En/Spm family)	28.70 28.70
+Transposase_28	PF04195.13	Putative gypsy type transposon	26.20 26.20
+Transposase_31	PF04754.13	Putative transposase, YhgA-like	20.50 20.50
+Transposase_32	PF20167.1	Putative plant transposon protein	34.00 34.00
+Transposase_mut	PF00872.19	Transposase, Mutator family	20.20 20.20
+Transposon_TraM	PF12508.9	Conjugative transposon, TraM	20.90 20.90
+TraO	PF10626.10	Conjugative transposon protein TraO	25.00 25.00
+TraQ_transposon	PF12988.8	TraQ conjugal transfer protein	27.00 27.00
+TTRAP	PF14203.7	Putative transposon-transfer assisting protein	27.00 27.00
+Ty3_capsid	PF19259.2	Ty3 transposon capsid-like protein	29.10 29.10
+TYA	PF01021.20	TYA transposon protein	25.00 25.00
+XisH	PF08814.11	XisH protein	25.00 25.00
+XisI	PF08869.12	XisI protein	25.00 25.00
+Y1_Tnp	PF01797.17	Transposase IS200 like	22.20 22.20
+Y2_Tnp	PF04986.14	Putative transposase	20.90 20.90
+YqaJ	PF09588.11	YqaJ-like viral recombinase domain	21.10 21.10
+zf-IS66	PF13005.8	zinc-finger binding domain of transposase IS66	27.30 27.30
+zf-ISL3	PF14690.7	zinc-finger of transposase IS204/IS1001/IS1096/IS1165	25.40 25.40
+Zn_ribbon_recom	PF13408.7	Recombinase zinc beta ribbon domain	25.30 25.30
+Zn_Tnp_IS1	PF03811.14	InsA N-terminal domain	26.10 26.10
+Zn_Tnp_IS1595	PF12760.8	Transposase zinc-ribbon domain	25.40 25.40
+Zn_Tnp_IS91	PF14319.7	Transposase zinc-binding domain	26.30 26.30

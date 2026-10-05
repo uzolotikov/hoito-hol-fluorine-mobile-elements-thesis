@@ -1,0 +1,8 @@
+contig	contig_len	ribo_start	ribo_end	strand	ribo_bitscore	exporter	orf	orf_start	orf_end	gap	window_orfs	edge_dist	mge_in_window
+contig_46126	59456	50233	50295	-	56.5	CLC^F	contig_46126_51	48832	50145	87	20	9161	0
+contig_576	4559	294	360	+	51.1	CrcB	contig_576_1	414	815	53	6	294	0
+contig_3877	6255	2961	3028	-	49.6	CLC^F	contig_3877_1	1540	2931	29	5	1540	0
+contig_3877	6255	5629	5698	-	48.3	CLC^F	contig_3877_5	5044	5592	36	5	557	0
+contig_49301	12718	7670	7731	+	46.0	CrcB	contig_49301_11	7834	8337	102	17	4381	1
+contig_46306	44094	7845	7917	-	43.1	CrcB	contig_46306_9	7389	7784	60	18	7389	0
+contig_8439	342134	334453	334548	-	38.6	CrcB	contig_8439_357	334006	334389	63	19	7586	0

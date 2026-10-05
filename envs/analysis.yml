@@ -1,0 +1,16 @@
+name: hoito-fluoride
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - seqkit=2.13.0
+  - prodigal=2.6.3
+  - hmmer=3.4
+  - infernal=1.1.5
+  - mafft=7.526
+  - fasttree=2.1.11
+  - blast=2.17.0
+  - wget
+  - matplotlib=3.10
+  - cairosvg

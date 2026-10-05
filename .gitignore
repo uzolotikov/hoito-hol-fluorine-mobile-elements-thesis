@@ -1,0 +1,6 @@
+config.sh
+out/
+db/
+data/*
+!data/README.md
+__pycache__/

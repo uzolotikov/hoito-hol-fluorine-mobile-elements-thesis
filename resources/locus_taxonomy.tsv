@@ -1,0 +1,13 @@
+assembly	contig	taxon
+flye	contig_46126	Hydrogenophaga
+flye	contig_46306	Ideonella
+flye	contig_49301	Pannonibacter
+flye	contig_3877	Micrarchaeota
+flye	contig_576	Sphingomonas
+hybrid	NODE_14_length_457108_cov_2.954935	Ideonella
+hybrid	NODE_211_length_75051_cov_3.379069	Hydrogenophaga
+hybrid	NODE_1127_length_19921_cov_0.410655	Pannonibacter
+hybrid	NODE_1960_length_12700_cov_1.139830	Pannonibacter
+hybrid	NODE_9515_length_3030_cov_0.350734	Micrarchaeota
+hybrid	NODE_9612_length_3001_cov_0.569607	Hydrotalea
+hybrid	NODE_10380_length_2782_cov_0.333955	Micrarchaeota
