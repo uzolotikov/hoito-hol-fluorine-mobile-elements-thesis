@@ -149,4 +149,6 @@ cairosvg figures/fig3_locus_maps.svg -o figures/fig3_locus_maps.pdf
 
 ## Лицензия
 
-_[ЗАПОЛНИТЬ]_
+Код и таблицы — MIT, см. [LICENSE](LICENSE).
+
+Профили Pfam и модель Rfam в `resources/models` распространяются их авторами по лицензии CC0.
